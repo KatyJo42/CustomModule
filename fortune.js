@@ -1,5 +1,5 @@
 //array 
-const fortunes = require("./fortunes.json")
+const fortunes = require('./fortunes.json')
 //function
 const getFortune = () => 
 {
